@@ -1,0 +1,35 @@
+.title {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+.input {
+    color: #8400ff;
+    border: 1px solid #8400ff;
+    border-radius: 5px;
+    
+}
+
+.label {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.button {
+    color: #fff;
+    background-color: #8400ff;
+    width: 150px;
+    height: 30px;
+    font-family: monospace;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 75px;
+}
+
+.button:active {
+    background-color: #4c00ff;
+}

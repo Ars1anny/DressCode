@@ -1,0 +1,45 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+.label {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.input {
+    color: #8400ff;
+    border: 1px solid #8400ff;
+    border-radius: 5px;
+    
+}
+
+.link {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 17px;
+    text-decoration: none;
+    margin-left: 75px;
+}
+
+.button {
+    color: #fff;
+    background-color: #8400ff;
+    width: 150px;
+    height: 30px;
+    font-family: monospace;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 75px;
+}

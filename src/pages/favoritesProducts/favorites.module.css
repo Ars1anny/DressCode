@@ -1,0 +1,56 @@
+.back {
+    color: #8400ff;
+    background-color: #fff;
+    font-family: monospace;
+    font-size: 19px;
+    cursor: pointer;
+    border: 1px solid #8400ff;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.productsField {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.container {
+    width: 400px;
+    height: 550px;
+    border: 1px solid #8400ff;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 19px;
+}
+
+.quantity {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.price {
+    color: #8400ff;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.photo {
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+}
